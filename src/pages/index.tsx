@@ -13,7 +13,7 @@ const Home: NextPage = () => {
     return (
         <div className={roboto.className}>
             <Head>
-                <title>Pedro's Resume</title>
+                <title>Pedro&apos;s Resume</title>
                 <link rel="icon" href="/icon.png" />
             </Head>
             <Header />
