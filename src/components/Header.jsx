@@ -12,10 +12,10 @@ const Header = () => {
     >
       <div className="relative w-32 h-32 rounded-full overflow-hidden shadow-lg border-4 border-white mb-4">
         <Image
-          src="/profile-pic.jpg"
+          src="/profile-pic.jpeg"
           alt="Profile Pic"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{objectFit: "cover"}}
         />
       </div>
       <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2 text-center">
