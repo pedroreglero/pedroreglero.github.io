@@ -16,7 +16,7 @@ const Experience = () => {
       <div className="flex flex-col gap-8">
         <div className="flex gap-4">
           <div className="flex-shrink-0">
-            <span className="text-gray-400 text-sm">04/2022 - 03/2023</span>
+            <span className="text-gray-400 text-sm">04/2022 - Currently working here</span>
           </div>
           <div className="flex-1 border-b-2 border-gray-200">
             <div className="flex items-center gap-2">
